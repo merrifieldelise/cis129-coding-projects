@@ -1,1 +1,9 @@
-print('Hello, World!')
+# Author: Elise Merrifield
+# My first Python lab in my CIS129 course
+# Prints a simple short story
+print("A farmer found a lone egg on a rock.")
+print("Curious he placed it in the incubator with his chicken eggs.")
+print("After a long wait out popped a little duckling!")
+print("The duckling was raised with the chickens and thought he was one of them.")
+print("He didn't like water or to swim!")
+print("He was a chicken!")
